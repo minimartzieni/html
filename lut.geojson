@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"id": 1},
       "geometry": {
         "coordinates": [
           [
@@ -86,7 +86,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"id": 2},
       "geometry": {
         "coordinates": [
           [
@@ -117,7 +117,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"id": 3},
       "geometry": {
         "coordinates": [
           [
@@ -172,7 +172,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"id": 4},
       "geometry": {
         "coordinates": [
           [
@@ -219,7 +219,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"id": 5},
       "geometry": {
         "coordinates": [
           [
@@ -290,7 +290,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"id": 6},
       "geometry": {
         "coordinates": [
           [
@@ -381,7 +381,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"id": 7},
       "geometry": {
         "coordinates": [
           [
